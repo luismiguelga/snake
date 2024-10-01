@@ -27,3 +27,4 @@ snake.game_on()
 
 snake.screen.exitonclick()
 # Esta es una nueva linea en el main
+# Nueva linea al cambios
